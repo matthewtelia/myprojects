@@ -1,0 +1,12 @@
+.section {
+  text-align: center;
+}
+
+.hero {
+  padding: 4rem 0 4rem;
+  background-color: black;
+  color: white;
+}
+.button.button-primary {
+	width:30rem;
+}
